@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table tr td{
+	margin:20px;
+	padding:5px;
+}
+table tr:nth-child(10){	
+	text-align:right;
+}
